@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ggato1
 - 👀 I’m interested in games like rocket league
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me discord
 
 <!---
